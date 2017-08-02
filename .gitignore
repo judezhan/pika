@@ -39,3 +39,8 @@ gdb.txt
 tags
 
 make_config.mk
+
+*DS_Store
+*swp
+cmake-build-debug/
+.idea/

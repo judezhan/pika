@@ -12,6 +12,7 @@
 #include "pika_conf.h"
 #include "pika_define.h"
 #include "pika_slot.h"
+#include "fcntl.h"
 
 #ifdef TCMALLOC_EXTENSION
 #include <gperftools/malloc_extension.h>
